@@ -10,3 +10,4 @@ It's pretty simple and there's a lot to do
 - [ ] Answer with pdf information
 - [ ] Click on the answer to jump to the corresponding pdf page
 - [ ] Front end landscaping, consider react
+- [ ] Support for different pdf like colorful pdf
