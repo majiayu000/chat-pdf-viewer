@@ -2,7 +2,7 @@
 
 A GPT-based read pdf and can answer questions, but also can display the pdf demo.
 
-Inspired by https://github.com/alejandro-ao/ask-multiple-pdfs and chat-pdf
+Inspired by [ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs)(actually based on) and [chat-pdf](https://www.chatpdf.com/)
 
 It's pretty simple and there's a lot to do
 
